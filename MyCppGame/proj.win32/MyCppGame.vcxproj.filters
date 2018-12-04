@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameScene">
+      <UniqueIdentifier>{7f4e08e9-b218-4267-8aa3-68150e4fa26d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Snake">
+      <UniqueIdentifier>{086a364e-795c-477e-8b5a-3b37713b1009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Player">
+      <UniqueIdentifier>{8acf46d4-49c0-4740-bd63-37078d443882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameLogic">
+      <UniqueIdentifier>{2c4827e4-429e-4d29-b8ad-04fb48aeaabe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Robot">
+      <UniqueIdentifier>{a4cdb2b2-064a-46aa-9e52-b80eb73c3c51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\GameScene.cpp">
+      <Filter>src\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Snake\BodyNode.cpp">
+      <Filter>src\Snake</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Snake\Snake.cpp">
+      <Filter>src\Snake</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\degreeHandle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player\Player.cpp">
+      <Filter>src\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLogic\GameLogic.cpp">
+      <Filter>src\GameLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player\keyboardControl.cpp">
+      <Filter>src\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Robot\Robot.cpp">
+      <Filter>src\Robot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\GameScene.h">
+      <Filter>src\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Snake\BodyNode.h">
+      <Filter>src\Snake</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Snake\Snake.h">
+      <Filter>src\Snake</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\degreeHandle.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\headfileSet.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player\Player.h">
+      <Filter>src\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLogic\GameLogic.h">
+      <Filter>src\GameLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player\keyboardControl.h">
+      <Filter>src\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Robot\Robot.h">
+      <Filter>src\Robot</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

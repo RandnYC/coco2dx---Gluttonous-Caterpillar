@@ -1,0 +1,756 @@
+﻿  AssetsManager.cpp
+  AssetsManagerEx.cpp
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+..\..\extensions\assets-manager\AssetsManagerEx.cpp(1179): warning C4305: “+=”: 从“double”到“float”截断
+  Manifest.cpp
+  CCControl.cpp
+  CCControlButton.cpp
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+  CCControlPotentiometer.cpp
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+  CCControlUtils.cpp
+  CCInvocation.cpp
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUAffector.cpp
+  CCPUAffectorManager.cpp
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+  CCPUAlignAffectorTranslator.cpp
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBeamRender.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUBillboardChain.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+  CCPUEmitter.cpp
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceField.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUListener.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUNoise.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlane.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPURender.cpp
+  CCPURendererTranslator.cpp
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphere.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  clipper.cpp
+  ConvertUTF.c
+  ConvertUTFWrapper.cpp
+  edtaa3func.cpp
+  idl_gen_cpp.cpp
+  idl_gen_fbs.cpp
+  idl_gen_general.cpp
+  idl_gen_go.cpp
+  idl_gen_text.cpp
+  idl_parser.cpp
+  md5.c
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+  sweep_context.cc
+  tinyxml2.cpp
+  ioapi_mem.cpp
+  ioapi.cpp
+  unzip.cpp
+  xxhash.c
+  CCAABB.cpp
+..\..\external\xxhash\xxhash.c(312): warning C4804: “/”: 在操作中使用类型“bool”不安全
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+  CCMotionStreak3D.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSkybox.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  CCTerrain.cpp
+  AudioEngine.cpp
+  AudioCache.cpp
+  AudioDecoder.cpp
+  AudioDecoderManager.cpp
+  AudioDecoderMp3.cpp
+  AudioDecoderOgg.cpp
+  AudioEngine-win32.cpp
+  AudioPlayer.cpp
+  MciPlayer.cpp
+  SimpleAudioEngine.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+  ccCArray.cpp
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCController.cpp
+  CCController-linux-win32.cpp
+..\base\CCConsole.cpp(448): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+  ..\base\CCConsole.cpp(448): note: 请考虑在格式字符串中使用“%ls”
+  ..\base\CCConsole.cpp(448): note: 请考虑在格式字符串中使用“%lls”
+  ..\base\CCConsole.cpp(448): note: 请考虑在格式字符串中使用“%Ls”
+  ..\base\CCConsole.cpp(448): note: 请考虑在格式字符串中使用“%ws”
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCDirector.cpp
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  CCEventController.cpp
+  CCEventCustom.cpp
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerController.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  ccFPSImages.c
+  CCIMEDispatcher.cpp
+  CCNinePatchImageParser.cpp
+  CCStencilStateManager.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  CCProperties.cpp
+  ccRandom.cpp
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  ccTypes.cpp
+  CCUserDefault.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  CCValue.cpp
+  etc1.cpp
+  pvr.cpp
+  ObjectFactory.cpp
+  s3tc.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+  cocos2d.cpp
+  CCArray.cpp
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  CCBAnimationManager.cpp
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+  CCScale9SpriteLoader.cpp
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionTimeline.cpp
+  CCActionTimelineCache.cpp
+  CCActionTimelineNode.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+  CCBoneNode.cpp
+  CCFrame.cpp
+  CCSkeletonNode.cpp
+  CCSkinNode.cpp
+  CCTimeLine.cpp
+  CSLoader.cpp
+  CCActionFrame.cpp
+  CCActionFrameEasing.cpp
+  CCActionManagerEx.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+  CCBone.cpp
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+  CCDisplayFactory.cpp
+  CCDisplayManager.cpp
+  CCInputDelegate.cpp
+  CCComExtensionData.cpp
+  CCProcessBase.cpp
+  CCSGUIReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+  CCSSceneReader.cpp
+  CCTransformHelp.cpp
+  CCTween.cpp
+  CCUtilMath.cpp
+  CocoLoader.cpp
+  CocoStudio.cpp
+  DictionaryHelper.cpp
+  FlatBuffersSerialize.cpp
+  LocalizationManager.cpp
+  TriggerBase.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+  TriggerMng.cpp
+  TriggerObj.cpp
+  WidgetCallBackHandlerProtocol.cpp
+  ArmatureNodeReader.cpp
+  ButtonReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+  CheckBoxReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+  ComAudioReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+  GameMapReader.cpp
+  GameNode3DReader.cpp
+  ImageViewReader.cpp
+  LayoutReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+  Light3DReader.cpp
+  ListViewReader.cpp
+  LoadingBarReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+  NodeReaderDefine.cpp
+  NodeReaderProtocol.cpp
+  NodeReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+  PageViewReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+  ParticleReader.cpp
+  ProjectNodeReader.cpp
+  ScrollViewReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+  SingleNodeReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+  BoneNodeReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+  SkeletonNodeReader.cpp
+  SliderReader.cpp
+  SpriteReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+  TabControlReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+  TextAtlasReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+  TextBMFontReader.cpp
+  TextFieldReader.cpp
+  TextReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+  Node3DReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+  Sprite3DReader.cpp
+  UserCameraReader.cpp
+  Particle3DReader.cpp
+  WidgetReader.cpp
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1522): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+E:\TryGame\MyCppGame\cocos2d\cocos\2d\..\..\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1569): warning C4305: “参数”: 从“double”到“float”截断 (编译源文件 ..\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+  CCAffineTransform.cpp
+  CCGeometry.cpp
+  CCVertex.cpp
+  Mat4.cpp
+  MathUtil.cpp
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  CCNavMesh.cpp
+  CCNavMeshAgent.cpp
+  CCNavMeshDebugDraw.cpp
+  CCNavMeshObstacle.cpp
+  CCNavMeshUtils.cpp
+  CCDownloader-curl.cpp
+  CCDownloader.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+  Uri.cpp
+  WebSocket.cpp
+  CCPhysics3D.cpp
+  CCPhysics3DComponent.cpp
+  CCPhysics3DConstraint.cpp
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3D.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3D.cpp)
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DComponent.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DComponent.cpp)
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DConstraint.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DConstraint.cpp)
+  CCPhysics3DDebugDrawer.cpp
+  CCPhysics3DObject.cpp
+  CCPhysics3DShape.cpp
+  CCPhysics3DWorld.cpp
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DDebugDrawer.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DDebugDrawer.cpp)
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DObject.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DObject.cpp)
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DShape.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DShape.cpp)
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysics3DWorld.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysics3DWorld.cpp)
+  CCPhysicsSprite3D.cpp
+  CCPhysicsBody.cpp
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): warning C4099: “btDbvtBroadphase”: 类型名称以前使用“class”现在使用的是“struct” (编译源文件 ..\physics3d\CCPhysicsSprite3D.cpp)
+  e:\trygame\mycppgame\cocos2d\external\bullet\include\bullet\bulletcollision\broadphasecollision\btDbvtBroadphase.h(62): note: 参见“btDbvtBroadphase”的声明 (编译源文件 ..\physics3d\CCPhysicsSprite3D.cpp)
+  CCPhysicsShape.cpp
+  CCPhysicsWorld.cpp
+  CCFileUtils.cpp
+  CCGLView.cpp
+  CCImage.cpp
+  CCSAXParser.cpp
+..\platform\CCSAXParser.cpp(168): warning C4101: “e”: 未引用的局部变量
+  CCThread.cpp
+  CCGLViewImpl-desktop.cpp
+  CCApplication-win32.cpp
+  CCCommon-win32.cpp
+  CCDevice-win32.cpp
+  CCFileUtils-win32.cpp
+  CCStdC-win32.cpp
+  CCUtils-win32.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+  CCFrameBuffer.cpp
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+..\renderer\CCGLProgramState.cpp(913): warning C4996: 'cocos2d::UniformValue::setTexture': 被声明为已否决
+  ..\renderer\CCGLProgramState.cpp(173): note: 参见“cocos2d::UniformValue::setTexture”的声明
+..\renderer\CCGLProgramState.cpp(917): warning C4996: 'cocos2d::UniformValue::setTexture': 被声明为已否决
+  ..\renderer\CCGLProgramState.cpp(173): note: 参见“cocos2d::UniformValue::setTexture”的声明
+..\renderer\CCGLProgramState.cpp(934): warning C4996: 'cocos2d::UniformValue::setTexture': 被声明为已否决
+  ..\renderer\CCGLProgramState.cpp(173): note: 参见“cocos2d::UniformValue::setTexture”的声明
+..\renderer\CCGLProgramState.cpp(938): warning C4996: 'cocos2d::UniformValue::setTexture': 被声明为已否决
+  ..\renderer\CCGLProgramState.cpp(173): note: 参见“cocos2d::UniformValue::setTexture”的声明
+  CCGLProgramStateCache.cpp
+  ccGLStateCache.cpp
+  CCGroupCommand.cpp
+  CCMaterial.cpp
+  CCMeshCommand.cpp
+  CCPass.cpp
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+  CCRenderer.cpp
+  CCRenderState.cpp
+  ccShaders.cpp
+  CCTechnique.cpp
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+  CCTextureCache.cpp
+  CCTextureCube.cpp
+  CCTrianglesCommand.cpp
+  CCVertexAttribBinding.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  LocalStorage.cpp
+  CocosGUI.cpp
+  UIButton.cpp
+  UIAbstractCheckButton.cpp
+  UICheckBox.cpp
+  UIEditBoxImpl-common.cpp
+  UIRadioButton.cpp
+  UIDeprecated.cpp
+  UIEditBox.cpp
+  UIEditBoxImpl-win32.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+  UILayout.cpp
+  UILayoutComponent.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIPageViewIndicator.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+  UIScale9Sprite.cpp
+  UIScrollView.cpp
+  UIScrollViewBar.cpp
+  UISlider.cpp
+  UITabControl.cpp
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+  UITextField.cpp
+  UIVBox.cpp
+  UIWebView.cpp
+  UIWidget.cpp
+  CCVRDistortion.cpp
+  CCVRDistortionMesh.cpp
+  CCVRGenericHeadTracker.cpp
+  CCVRGenericRenderer.cpp
+  CCAction.cpp
+  CCActionCamera.cpp
+  CCActionCatmullRom.cpp
+  CCActionEase.cpp
+  CCActionGrid.cpp
+  CCActionGrid3D.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+  CCAnimation.cpp
+  CCAnimationCache.cpp
+  CCAtlasNode.cpp
+  CCAutoPolygon.cpp
+  CCCamera.cpp
+  CCCameraBackgroundBrush.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponent.cpp
+  CCComponentContainer.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  CCFontAtlas.cpp
+  CCFontAtlasCache.cpp
+  CCFontCharMap.cpp
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+  CCGLBufferedNode.cpp
+  CCGrabber.cpp
+  CCGrid.cpp
+  CCLabel.cpp
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+  CCLabelTextFormatter.cpp
+  CCLabelTTF.cpp
+  CCLayer.cpp
+  CCLight.cpp
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+  CCScene.cpp
+  CCSprite.cpp
+  CCSpriteBatchNode.cpp
+  CCSpriteFrame.cpp
+  CCSpriteFrameCache.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+  CCTMXLayer.cpp
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+  CCTransitionPageTurn.cpp
+  CCTransitionProgress.cpp
+  CCTweenFunction.cpp
+  复制了 1 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 3 个文件
+  复制了 1 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 6 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 4 个文件
+libtiff-2015.lib(tif_win32.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+  libchipmunk-2015.lib(chipmunk.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+libtiff-2015.lib(tif_win32.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+    正在创建库 E:\TryGame\MyCppGame\proj.win32\Release.win32\libcocos2d.lib 和对象 E:\TryGame\MyCppGame\proj.win32\Release.win32\libcocos2d.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+libchipmunk-2015.lib(chipmunk.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(chipmunk.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpBody.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpBody.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpShape.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpShape.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpConstraint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpConstraint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpPinJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpPinJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSlideJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSlideJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpPivotJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpPivotJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpGrooveJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpGrooveJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpDampedSpring.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpDampedSpring.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpace.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpace.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpaceComponent.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpaceComponent.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpArbiter.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpArbiter.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpDampedRotarySpring.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpDampedRotarySpring.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpRotaryLimitJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpRotaryLimitJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpRatchetJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpRatchetJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpGearJoint.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpGearJoint.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSimpleMotor.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSimpleMotor.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpPolyShape.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpPolyShape.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpaceQuery.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpaceQuery.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpaceStep.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpaceStep.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpaceDebug.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpaceDebug.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpArray.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpArray.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpCollision.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpCollision.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpHashSet.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpHashSet.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpBBTree.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpBBTree.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpaceHash.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpaceHash.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpSpatialIndex.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpSpatialIndex.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk-2015.lib(cpRobust.obj) : warning LNK4099: 未找到 PDB“chipmunk.pdb”(使用“libchipmunk-2015.lib(cpRobust.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\chipmunk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_aux.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_aux.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_close.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_close.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_codec.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_codec.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_color.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_color.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_compress.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_compress.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dir.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dir.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirinfo.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirinfo.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirread.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirread.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirwrite.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirwrite.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dumpmode.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dumpmode.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_error.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_error.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_fax3.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_fax3.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_fax3sm.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_fax3sm.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_getimage.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_getimage.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_flush.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_flush.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_luv.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_luv.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_lzw.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_lzw.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_next.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_next.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_open.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_open.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_packbits.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_packbits.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_predict.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_predict.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_read.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_read.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_swab.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_swab.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_strip.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_strip.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_thunder.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_thunder.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_tile.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_tile.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_warning.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_warning.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_write.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_write.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_win32.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_win32.obj)”或在“E:\TryGame\MyCppGame\proj.win32\Release.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  libcocos2d.vcxproj -> E:\TryGame\MyCppGame\proj.win32\Release.win32\libcocos2d.dll
